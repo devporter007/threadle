@@ -1,5 +1,5 @@
 # Threadle
-Simple multi-part / threaded downloader API or Program written in python.
+Update:- This script was changed and is now a wrapper to pySmartDL
 ## Available Arguements
 <UL>
 <LI> -d // --download : URL
