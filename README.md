@@ -1,4 +1,4 @@
-# threadle
+# Threadle
 Simple multi-part / threaded downloader API or Program written in python.
 ## Available Arguements
 <UL>
